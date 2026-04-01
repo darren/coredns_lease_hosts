@@ -1,6 +1,6 @@
-# coredns_lease_hosts
+# lease_hosts
 
-`lease_hosts` is a CoreDNS plugin that enables DNS resolution for local network hosts by directly monitoring and parsing the `dnsmasq.leases` file.
+`lease_hosts` is a [CoreDNS](https://github.com/coredns/coredns) plugin that enables DNS resolution for local network hosts by directly monitoring and parsing the `dnsmasq.leases` file.
 
 ## Description
 
