@@ -1,4 +1,4 @@
-module github.com/darren/coredns-lease-hosts
+module github.com/darren/lease_hosts
 
 go 1.26.1
 
