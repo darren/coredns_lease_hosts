@@ -51,7 +51,7 @@ cluster.local {
 
 ## Compilation
 
-To compile CoreDNS with this plugin, add the following to `plugin.cfg` before `hosts`:
+To compile CoreDNS with this plugin, add the following to `plugin.cfg` after `hosts`:
 
 ```text
 lease_hosts:github.com/darren/coredns_lease_hosts
